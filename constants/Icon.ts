@@ -11,6 +11,9 @@ import logout from "../assets/icons/logout.png";
 import eyeHide from "../assets/icons/eye-hide.png";
 import eye from "../assets/icons/eye.png";
 import play from "../assets/icons/play.png";
+import chart from "../assets/icons/chart.png";
+import wallet from "../assets/icons/wallet.png";
+import trend from "../assets/icons/learn.png";
 
 export default {
     play,
@@ -26,5 +29,8 @@ export default {
     logout,
     eyeHide,
     eye,
+    chart,
+    wallet,
+    trend,
   };
   
